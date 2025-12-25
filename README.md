@@ -14,10 +14,9 @@ Try the model directly in your browser:
 - Trained on **CIFAR-10** (60,000 images, 10 classes)
 - Deployed using **Gradio** + **Hugging Face Spaces**
 - Includes:
-  - Data augmentation
+  - Data augmentation and Normalisation
   - Training & test accuracy tracking
-  - Confusion matrix visualization
-  - Misclassified examples display
+  - Classified examples display
 
 
 ## Model Architecture
